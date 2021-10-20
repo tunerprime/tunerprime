@@ -5,7 +5,7 @@
 - [CallbusLab](https://callbus.com) Backend Developer ( 2021.05.10 ~ NOW )
 - [Korea Financial Solution(Finset)](https://finset.io) Backend Developer (2019.08.05 ~ 2021.05.01)
 - [ONOFFMIX](https://onoffmix.com) Full Stack Developer (2017.04.03 ~ 2019.02.01)
-- [BTrust](http://www.btrust.co.kr/) Full Stack Developer (Skilled Industry Personnel) (2014.09.15 ~ 2017.04.01)
+- [BTrust](http://www.btrust.co.kr/) Full Stack Developer (산업기능요원 복무) (2014.09.15 ~ 2017.04.01)
 
 ### 📖 Academic Background
 - [Soongsil University](https://ssu.ac.kr) - Double Majoring in [Department of Media Management](http://mediamba.ssu.ac.kr/) and [School of AI Convergence](http://aix.ssu.ac.kr/main)
