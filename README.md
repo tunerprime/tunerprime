@@ -21,3 +21,6 @@
 ![HTML](https://img.shields.io/badge/HTML-yellow)
 ![Python](https://img.shields.io/badge/Python-orange)
 ![CSS](https://img.shields.io/badge/CSS-red)
+
+
+<a href="https://opgc.me/#/users/tunerprime" target="_blank"><img src="https://api.opgc.me/githubs/users/tunerprime/tag/?theme=basic" /></a>
