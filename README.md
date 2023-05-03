@@ -2,7 +2,8 @@
 
 
 ### 👨‍💼 Career 
-- [CallbusLab](https://callbus.com)(w.[자리톡](https://zaritalk.com)) Backend Developer ( 2021.05.10 ~ NOW )
+- [Yogiyo](https://www.yogiyo.co.kr) Backend Developer ( 2023.05.03 ~ )
+- [CallbusLab](https://callbus.com)(w.[자리톡](https://zaritalk.com)) Backend Developer ( 2021.05.10 ~ 2023.03.17 )
 - [Korea Financial Solution(Finset)](https://finset.io) Backend Developer (2019.08.05 ~ 2021.05.01)
 - [ONOFFMIX](https://onoffmix.com) Full Stack Developer (2017.04.03 ~ 2019.02.01)
 - [BTrust](http://www.btrust.co.kr/) Full Stack Developer (산업기능요원 복무) (2014.09.15 ~ 2017.04.01)
